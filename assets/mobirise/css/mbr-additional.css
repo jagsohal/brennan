@@ -1155,14 +1155,14 @@ section.lazy-placeholder:after {
   margin-left: 4px !important;
 }
 .cid-rTe79taO4N .animated-element {
-  color: #ffbc00;
+  color: #cebfaf;
 }
 .cid-rTe79taO4N .typed-cursor {
   opacity: 1;
   -webkit-animation: blink 0.7s infinite;
   -moz-animation: blink 0.7s infinite;
   animation: blink 0.7s infinite;
-  color: #ffbc00;
+  color: #cebfaf;
 }
 @keyframes blink {
   0% {
@@ -1590,4 +1590,15 @@ section.lazy-placeholder:after {
 .cid-rTeaIcoNxL .mbr-form .btn .mbr-iconfont {
   font-size: 1.5rem;
   order: 2;
+}
+.cid-rTeilCZIfm {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rTeilCZIfm .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rTeilCZIfm .btn {
+  margin: 0 0 .5rem 0;
 }
