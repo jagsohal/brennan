@@ -1155,14 +1155,14 @@ section.lazy-placeholder:after {
   margin-left: 4px !important;
 }
 .cid-rTe79taO4N .animated-element {
-  color: #cebfaf;
+  color: #ffbc00;
 }
 .cid-rTe79taO4N .typed-cursor {
   opacity: 1;
   -webkit-animation: blink 0.7s infinite;
   -moz-animation: blink 0.7s infinite;
   animation: blink 0.7s infinite;
-  color: #cebfaf;
+  color: #ffbc00;
 }
 @keyframes blink {
   0% {
@@ -1198,7 +1198,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rTe79taO4N .mbr-section-title {
-  color: #ef4716;
+  color: #ffffff;
 }
 .cid-rTe8ic7XLB {
   background-color: #ffffff;
